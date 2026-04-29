@@ -1,0 +1,2 @@
+season: rainy
+items: raincoat, umbrella, waterproof boots, poncho, quick-dry pants
